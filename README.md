@@ -1,0 +1,2 @@
+# Gaje
+Xmrigbypass
