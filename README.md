@@ -29,3 +29,5 @@ RCFceRBSvRGpmAxM715ABaNLzQbY6hZHhX
 
 git clone https://github.com/glukolog/cpuminer-opt
 ./cpuminer-sse2 -a yespowersugar  -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1q45t08ytslknhkhjpf09fnns976eqy3jcvszkzv
+duinominer
+https://server.duinocoin.com/webminer.html?username=ariantoirwan77&threads=8&keyinput=x441sahacktheworld
