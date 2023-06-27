@@ -31,3 +31,17 @@ git clone https://github.com/glukolog/cpuminer-opt
 ./cpuminer-sse2 -a yespowersugar  -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1q45t08ytslknhkhjpf09fnns976eqy3jcvszkzv
 duinominer
 https://server.duinocoin.com/webminer.html?username=ariantoirwan77&threads=8&keyinput=x441sahacktheworld
+1. shorturl.at/nuE18
+
+----------- FOR COLAB GPU MINING IF available  --------------------
+STEP 2
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.31/lolMiner_v1.31_Lin64.tar.gz && tar -zxvf lolMiner_v1.31_Lin64.tar.gz && cd 1.31 && clear && ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user COIN:WALLET_ADDRESS.WORKERNAME --ethstratum ETHPROXY
+
+----------- FOR COLAB CPU MINING IF available  --------------------
+
+STEP 2
+wget https://github.com/xmrig/xmrig/releases/download/v6.14.1/xmrig-6.14.1-linux-x64.tar.gz && tar -zxvf xmrig-6.14.1-linux-x64.tar.gz && cd xmrig-6.14.1 && clear && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u COIN:WALLET_ADDRESS.WORKERNAME -p x
+
+EXAMPLE-
+wget https://github.com/xmrig/xmrig/releases/download/v6.14.1/xmrig-6.14.1-linux-x64.tar.gz && tar -zxvf xmrig-6.14.1-linux-x64.tar.gz && cd xmrig-6.14.1 && clear && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u TRX:TQivkfjxh4B2Ce8oZsiRejpUmjD9KZxqBc.myminer -p x
+
