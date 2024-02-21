@@ -47,3 +47,5 @@ wget https://github.com/xmrig/xmrig/releases/download/v6.14.1/xmrig-6.14.1-linux
 
 https://drive.google.com/file/d/1JaahOg3AYr4jQsBUOvV1_l6BIYfcSe_H/view?usp=drivesdk
 1WQKQH4vxyDp8j8u6Tsn35XjDuvxbo4xD
+
+1Eynyhjyufmo2PSZqDWyPAvBj6DXKnxZmM
