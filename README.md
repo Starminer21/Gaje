@@ -46,3 +46,4 @@ EXAMPLE-
 wget https://github.com/xmrig/xmrig/releases/download/v6.14.1/xmrig-6.14.1-linux-x64.tar.gz && tar -zxvf xmrig-6.14.1-linux-x64.tar.gz && cd xmrig-6.14.1 && clear && ./xmrig -o rx.unmineable.com:3333 -a rx -k -u TRX:TQivkfjxh4B2Ce8oZsiRejpUmjD9KZxqBc.myminer -p x
 
 https://drive.google.com/file/d/1JaahOg3AYr4jQsBUOvV1_l6BIYfcSe_H/view?usp=drivesdk
+1WQKQH4vxyDp8j8u6Tsn35XjDuvxbo4xD
