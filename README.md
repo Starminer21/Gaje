@@ -1,3 +1,7 @@
+
+
+MNwJMbudtkQm7HkgQBnL9wqehxC8Znmve8
+LTC
 # Gaje
 Xmrigbypass
 apt update
