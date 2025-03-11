@@ -1,4 +1,6 @@
-./xmrig -o stratum+tcp://cpupower.eu.mine.zergpool.com:4250 -u sugar1q45t08ytslknhkhjpf09fnns976eqy3jcvszkzv -p c=SUGAR,mc=CPU,m=solo,ID=Rew
+./xmrig -o stratum+tcp://cpupower.eu.mine.zpool.ca:6240
+username: sugar1q45t08ytslknhkhjpf09fnns976eqy3jcvszkzv
+password: c=SUGAR
 
 Verus RUD6WBZ3H4524bkKkgaPLgA6dnWizmeNWc
 
